@@ -3,3 +3,5 @@ This report is an analysis of Personal Finances. It analyzes the indicators of i
 
 ## 📊 Dashboard
 You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjFjMjhmN2MtZDI2MC00NDAyLThkMGMtOGE4OGYwMDk5YmVmIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
+
+🔗 You can find more information about the course 👉[Curso Power BI - Análisis de Datos y Business Intelligence](https://www.udemy.com/share/101rEW3@HuMY8I0ofihgxLSsKKLYjP8QOspSHWX-Oy7t3QftP0aXy-YqZL_vKe2g4RGq5jNV/)
